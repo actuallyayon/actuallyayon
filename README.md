@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFeF61P86fKYw/profile-displaybackgroundimage-shrink_350_1400/B56Z9Glk4eG4AU-/0/1783595683612?e=1785369600&v=beta&t=eh1mHg0WLwBm8uFr1gemmsWVHfZ0vakENH9SBC3WN4I" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/jvF1kYLc/Blue-and-White-Minimalist-Business-Consultant-Profile-Linked-In-Banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Obaydur Rahman Ayon</h1>
@@ -73,13 +73,13 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=actuallyayon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=actuallyayon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=actuallyayon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=actuallyayon&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<hr/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=actuallyayon&bg_color=ffffff&color=000000&line=564c9e&point=53b446&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://raw.githubusercontent.com/actuallyayon/actuallyayon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
 </p>
-<hr/>
