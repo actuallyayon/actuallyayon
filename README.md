@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/jvF1kYLc/Blue-and-White-Minimalist-Business-Consultant-Profile-Linked-In-Banner.png" alt="Banner" width="100%">
+  <img src="https://ibb.co/hFFfLQ7S/Blue-and-White-Minimalist-Business-Consultant-Profile-Linked-In-Banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Obaydur Rahman Ayon</h1>
