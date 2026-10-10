@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/0yytm4Dx/Blue-Futuristic-Technology-Linked-In-Background-Photo.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/5gLHv6B2/Dark-Tech-Portfolio-Banner-with-Neon-Icons.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Obaydur Rahman Ayon</h1>
